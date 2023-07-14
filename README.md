@@ -8,7 +8,7 @@ const val: Developer = {
     code: ["Javascript"],
     technologies: {
         backEnd: ["Express.js", "Node.js"],
-        frontEnd: ["Mithril.js", "HTML", "CSS"],
+        frontEnd: ["Mithril.js", "Vue.js", "HTML", "CSS"],
         databases: ["MongoDB", "SQLite"]
     },
     education: ["Software University of Sofia", "PMG Atanas Radev"],
