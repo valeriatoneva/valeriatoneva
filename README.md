@@ -1,4 +1,5 @@
-## Hi! I'm Val <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
+## Hi! I'm Val 👋
+
 
 ![visitors](https://komarev.com/ghpvc/?username=valeriatoneva)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-toneva-39a89a230/) 
