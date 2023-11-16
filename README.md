@@ -11,7 +11,7 @@ const developer = {
         backEnd: ["Express.js", "Node.js"],
         frontEnd: ["Mithril.js", "Vue.js", "React", "HTML", "CSS"],
         devOps: ["Docker 🐳"],
-        databases: ["MongoDB", "SQLite"]
+        databases: ["MongoDB", "SQLite"],
         oS: ["Linux (Ubuntu, Mint)"]
     },
     education: ["Software University of Sofia", "PMG Atanas Radev"],
