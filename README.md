@@ -12,10 +12,11 @@ const developer = {
         frontEnd: ["Mithril.js", "Vue.js", "React", "HTML", "CSS"],
         devOps: ["Docker 🐳"],
         databases: ["MongoDB", "SQLite"]
+        oS: ["Linux (Ubuntu, Mint)"]
     },
     education: ["Software University of Sofia", "PMG Atanas Radev"],
     hobbies: ["Coding", "Cars", "Gaming"],
-    goal: "Contributing to Open Source projects"
+    goal: "Learn TypeScript and Angular 👽"
 };
 ```
 
