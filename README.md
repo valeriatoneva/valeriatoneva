@@ -16,7 +16,7 @@ const developer = {
     },
     education: ["Software University of Sofia", "PMG Atanas Radev"],
     hobbies: ["Coding", "Cars", "Gaming"],
-    goal: "Learn TypeScript and Angular 👽"
+    goal: "Learn TypeScript🇹 and Angular🅰️"
 };
 ```
 
