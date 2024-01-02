@@ -15,7 +15,7 @@ const developer = {
         oS: ["Linux (Ubuntu, Mint)"]
     },
     education: ["Software University of Sofia", "PMG Atanas Radev"],
-    hobbies: ["Coding", "Cars", "Gaming"],
+    hobbies: ["Coding", "Cars", "Gym"],
     goal: "Learn TypeScript🇹 and Angular🅰️"
 };
 ```
