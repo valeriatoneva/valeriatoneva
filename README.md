@@ -6,17 +6,17 @@
 
 ```javascript
 const developer = {
-    code: ["Javascript"],
+    code: ["Javascript", "TypeScript"],
     technologies: {
         backEnd: ["Express.js", "Node.js"],
-        frontEnd: ["Mithril.js", "Vue.js", "React", "HTML", "CSS"],
+        frontEnd: ["Mithril.js", "Vue.js", "React", "Angular", "HTML", "CSS"],
         devOps: ["Docker 🐳"],
         databases: ["MongoDB", "SQLite"],
         oS: ["Linux (Ubuntu, Mint)"]
     },
     education: ["Software University of Sofia", "PMG Atanas Radev"],
     hobbies: ["Coding", "Cars", "Gym"],
-    goal: "Learn TypeScript🇹 and Angular🅰️"
+    goal: "Work on improving my problem solving skills"
 };
 ```
 
